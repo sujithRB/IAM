@@ -1,4 +1,3 @@
-# IAM
 # EX - 6 Implementation Of Identity Management (Amazon Iam) For Your Team.
 # NAME: SUJITH RB
 # REG NO: 212224103003
